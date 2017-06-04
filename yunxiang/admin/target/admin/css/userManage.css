@@ -1,0 +1,170 @@
+* {
+text-decoration:none;
+}
+
+#appSaveForm{
+    margin:0;
+}
+.ftitle{
+    font-size:14px;
+    font-weight:bold;
+    padding:5px 0;
+    margin-bottom:10px;
+    border-bottom:1px solid #ccc;
+}
+.fitem{
+    margin-bottom:5px;
+}
+.fitem label{
+    display:inline-block;
+    width:80px;
+    margin-top:10px;
+}
+
+.uploadRightTitle {
+    border-bottom: 1px solid #C1C8D2;
+    color: #FF6600;
+    float: left;
+    font-family: Microsoft Yahei,SimHei,Times New Roman;
+    font-size: 14px;
+    height: 25px;
+    line-height: 25px;
+    margin: 0px 0 0px 12px;
+    width: 90%;
+}
+
+.uploadLeftTitle {
+    border-bottom: 1px solid #C1C8D2;
+    color: #FF6600;
+    float: left;
+    font-family: Microsoft Yahei,SimHei,Times New Roman;
+    font-size: 14px;
+    height: 25px;
+    line-height: 25px;
+    margin: 0px 0 0px 12px;
+    width: 90%;
+}
+
+
+.selectdivFileContainer {
+	height:50px;padding:3px;margin-top:0px;
+}
+.selectdivFileProgress{
+height:11px;
+margin-left:11px; 
+margin-right:18px
+}
+.uploadPictureLeft{
+	margin-top:5px; 
+}
+.uploadAppLeft{
+	height:110px;
+}
+
+.uploadAppLeftTop{
+
+}
+.uploadAppLeftAppType{
+	margin-left:11px; 
+}
+.uploadPictureLeftTitle {
+    border-bottom: 1px solid #C1C8D2;
+    color: #FF6600;
+    float: left;
+    font-family: Microsoft Yahei,SimHei,Times New Roman;
+    font-size: 14px;
+    height: 25px;
+    line-height: 25px; 
+    width:91%;
+    margin-left:11px; 
+}
+.uploadAppImageTitle {
+    border-bottom: 1px solid #C1C8D2;
+    float: left;
+    font-family: Microsoft Yahei,SimHei,Times New Roman;
+    font-size: 14px;
+    height: 25px;
+    line-height: 25px; 
+    width:91%;
+    margin-left:11px; 
+}
+
+.selectPictureFileProgress{
+height:11px;
+margin-left:11px; 
+margin-right:18px
+}
+
+#pictureFileProgressContainer {
+
+}
+.pictureShow{
+margin-top:10px;
+margin-left:9px; 
+}
+.pictureDelete{
+	margin-left: 5px;
+    margin-top: 10px;
+    width: 40px;
+}
+
+.uploadXinXi {
+    border: 1px solid #95B8E7; 
+    vertical-align: middle;
+    width: 128px;
+}
+
+.uploadXinXiFaBu {
+    border: 1px solid #95B8E7;
+    margin-top: 10px;
+    vertical-align: middle;
+    width: 128px;
+    height:70px;
+}
+.uploadAppLeftAddress {
+    height: 70px;
+    margin-left: 12px;
+    margin-top: 10px;
+}
+
+.uploadXinXiAddress {
+    border: 1px solid #95B8E7; 
+    vertical-align: middle;
+    width:210px;
+}
+.inputBox{
+    border:1px solid #95B8E7;
+}
+
+.appListImageName{
+    float: left;
+    height: 30px;
+    width: 30px;
+    margin-bottom: 5px;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+.appListTitleContent{
+	margin-top: 10px;
+    padding-right: 55px;
+}
+.queryTitle {
+    border: 1px solid #95B8E7;
+    height: 18px;
+    vertical-align: middle;
+    width: 128px;
+}
+
+
+.selectServerManageList ul { list-style-type: none;
+}
+.selectServerManageList ul li { border-bottom: 1px solid #95B8E7; border-left: 1px solid #95B8E7; height: 23px; width: 140px; float: left;
+}
+.selectServerManageList ul li div{
+width:230px;
+overflow:hidden;            //自动隐藏文字
+text-overflow: ellipsis;    //文字隐藏后添加省略号
+-o-text-overflow:ellipsis; //适用于opera浏览器
+}
+.selectServerManageListLi { border-top: 1px solid #95B8E7;}
+.selectServerManageListLiR { border-right: 1px solid #95B8E7;}
